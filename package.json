@@ -11,7 +11,8 @@
   "author": "Konik Saputra <koniksaputra@live.com>",
   "license": "ISC",
   "dependencies": {
-    "@hapi/hapi": "^20.1.2"
+    "@hapi/hapi": "^20.1.2",
+    "nanoid": "^3.1.22"
   },
   "devDependencies": {
     "eslint": "^7.24.0",
